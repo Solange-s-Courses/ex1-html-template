@@ -3,11 +3,14 @@ A started template for HTML project
 
 Author
 
-Student Name
-Email (as appearing in moodle): student@hac.ac.il
+<h1>Student Name</h1>
+<p>Email (as appearing in moodle): student@hac.ac.il</p>
 
-Execution
+<h1>Execution</h1>
+<p>
 The submission is a WebStorm project that can be run directly from the IDE.
-
-Assumptions
-The site use bootstap CDN therefore assumes an internet connection is available.
+</p>
+<h1>Assumptions</h1>
+<p>
+  The site use bootstap CDN therefore assumes an internet connection is available.
+</p>
