@@ -5,7 +5,7 @@ A started template for HTML project. Learn about the format of this readme here:
 
 
 ## Your Name(s) Here
-Email (as appearing in moodle): student@jmc.ac.il
+Email (as appearing in moodle): 
 
 ## Additional instructions
 
